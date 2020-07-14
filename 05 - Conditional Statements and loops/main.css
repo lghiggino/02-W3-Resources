@@ -1,0 +1,11 @@
+.button{
+    min-width: 100px;
+    min-height: 50px;
+}
+
+.display{
+    background-color:rgba(162, 180, 167, 0.8);
+    margin-top: 1em;
+    max-width: 136.8px;
+    min-height: 50px;
+}

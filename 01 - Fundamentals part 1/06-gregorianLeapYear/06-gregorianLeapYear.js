@@ -10,6 +10,8 @@ const para = document.querySelector("#result")
 function leapYearCalculator(e){
     e.preventDefault();
     let valor = myForm.ano.value;
+    //let teste1 = myForm.ano1.value;
+    //let teste2 = myForm.ano2;
     console.log(valor);
     myForm.reset();
     if(valor % 4 === 0 && valor % 100 === 0 && valor %400 === 0){

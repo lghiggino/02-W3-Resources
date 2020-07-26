@@ -1,0 +1,12 @@
+#theForm{
+    width: 220px;    
+}
+
+#theForm > input{
+    width: 100%;
+}
+
+.grid > button{
+    margin-top: 0.5em;
+    width: 100px;
+}
